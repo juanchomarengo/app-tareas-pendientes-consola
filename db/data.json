@@ -13,5 +13,10 @@
         "id": "8a040ade-bbb2-4074-8585-4ae901c0db3e",
         "descripcion": "Dormir",
         "completadoEn": null
+    },
+    {
+        "id": "72059bce-2e77-434f-a695-a47ad83b1e39",
+        "descripcion": "Ir a comprar",
+        "completadoEn": null
     }
 ]
