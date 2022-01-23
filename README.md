@@ -11,10 +11,10 @@ Una vez hecho lo mencionado anteriormente ejecute el comando ```node app``` y lu
 
 ## Menu de la app: 
 
-1. Crear tareas --> En esta opcion se le solicitara una Descripcion de la tarea a crear y luego `Enter` para volver al menu.
-2. Listar tareas --> Se listan todas las tareas almacendas.
-3. Listar tareas completadas --> Se listan solamente las tareas que estan en estado: `Completadas` e indica su Fecha y hora de terminacion. 
-4. Listar tareas pendientes --> Se listan solamente las tareas que estan en estado: `Pendientes`. 
-5. Completar tareas --> Se puede marcar una tarea y cambiarla de estado. Puede pasar de `Pendientes` -> `Completadas` o de `Completadas` -> `Pendientes`
-6. Borrar tareas --> Se puede borrar una tarea, solicita una confirmacion antes de ser borrada.
-0. Salir --> Cerrar aplicacion.
+1. **Crear tareas -->** En esta opcion se le solicitara una Descripcion de la tarea a crear y luego `Enter` para volver al menu.
+2. **Listar tareas -->** Se listan todas las tareas almacendas.
+3. **Listar tareas completadas -->** Se listan solamente las tareas que estan en estado: `Completadas` e indica su Fecha y hora de terminacion. 
+4. **Listar tareas pendientes -->** Se listan solamente las tareas que estan en estado: `Pendientes`. 
+5. **Completar tareas -->** Se puede marcar una tarea y cambiarla de estado. Puede pasar de `Pendientes` -> `Completadas` o de `Completadas` -> `Pendientes`
+6. **Borrar tareas -->** Se puede borrar una tarea, solicita una confirmacion antes de ser borrada.
+0. **Salir -->** Cerrar aplicacion.
