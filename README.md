@@ -1,4 +1,4 @@
-# App tareas pendientes : 
+# App tareas pendientes: 
 Aplicacion de consola creada en el marco de una practica de Node.js. Version: ```0.0.1```
 
 ## Descripcion:
