@@ -1,0 +1,17 @@
+[
+    {
+        "id": "66695c8a-3769-44b5-bb3e-62b475fc8dad",
+        "descripcion": "Comer",
+        "completadoEn": "2022-01-23T03:13:42.789Z"
+    },
+    {
+        "id": "12b9ef7a-1630-48f2-a1eb-56ddb264c149",
+        "descripcion": "Estudiar",
+        "completadoEn": null
+    },
+    {
+        "id": "8a040ade-bbb2-4074-8585-4ae901c0db3e",
+        "descripcion": "Dormir",
+        "completadoEn": null
+    }
+]
